@@ -51,7 +51,7 @@ const mediaTree = {
 
 ---
 
-## 🏫 **Class Questions (7 Problems)**
+## 🏫 **Class Questions**
 
 ---
 
@@ -88,7 +88,7 @@ Total element count
 
 ---
 
-## 🏠 **Homework Questions (7 Problems)**
+## 🏠 **Homework Questions**
 
 ---
 
@@ -136,14 +136,14 @@ Count of `<div>` elements
 
 ---
 
-### **7️⃣ DOM: Find the Maximum DOM Depth of the Page**
+### **8️⃣ DOM: Find the Maximum DOM Depth of the Page**
 
 _Input:_ `document.body`  
 Maximum nesting depth
 
 ---
 
-### **8️⃣ DOM: Check If an Element With Given ID Exists**
+### **9️⃣ DOM: Check If an Element With Given ID Exists**
 
 _Input:_ `document.body`, id = `"app"`  
 `true` or `false`  
